@@ -1,0 +1,13 @@
+{
+    "name": "key-auth-bot",
+    "version": "1.0.0",
+    "description": "Discord bot for key authentication",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "firebase-admin": "^11.9.0"
+    }
+}
